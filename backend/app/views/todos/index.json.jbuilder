@@ -7,4 +7,5 @@ json.todos @todos do |todo|
   json.bestBy todo.bestBy
   json.importance todo.importance
   json.category todo.category
+  json.id todo.id
 end
