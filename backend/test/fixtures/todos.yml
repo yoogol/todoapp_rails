@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyText
+  dateCreated: 2016-04-25 18:13:37
+  timeNeeded: 1
+  calendarApp: false
+  dateDue: 2016-04-25 18:13:37
+  bestBy: 2016-04-25 18:13:37
+  importance: 1
+  category: MyString
+
+two:
+  content: MyText
+  dateCreated: 2016-04-25 18:13:37
+  timeNeeded: 1
+  calendarApp: false
+  dateDue: 2016-04-25 18:13:37
+  bestBy: 2016-04-25 18:13:37
+  importance: 1
+  category: MyString
